@@ -1,16 +1,16 @@
 url: https://auv-iiitdm.github.io
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: AUV IIITDM
+email: auv-iiitdm@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Ram Bahal Tiwari
   pic: 1
-  position: Lead Designer
+  position: Lead Engineer
   social:
     - title: twitter
       url: #
@@ -56,8 +56,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: IIITDM Kancheepuram
+  - line: Chennai-600127
 
 # Build settings
 markdown: kramdown
